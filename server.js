@@ -1913,3 +1913,4 @@ function evaluateBetLeg(leg, resultObj) {
             console.log('✅ All routes registered');
             console.log('Routes: /api/auth/register, /api/auth/login, /api/deposit, /api/wallet/withdraw, /api/wallet/initiate-fee, /api/wallet/withdraw-fee, /api/admin/*');
         });
+       });
